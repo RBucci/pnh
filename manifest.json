@@ -1,7 +1,7 @@
 {
  "name": "Panteón Nacional de los Heroes",
- "start_url": "index.htm",
  "description": "Prototipo 1 para el despliegue del Proyecto Cultural Digital.",
+ "start_url": "index.htm",
  "theme_color": "#FFFFFF",
  "icons": [
   {
