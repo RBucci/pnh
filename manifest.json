@@ -1,8 +1,8 @@
 {
- "name": "Panteón Nacional de los Heroes",
- "description": "Prototipo 1 para el despliegue del Proyecto Cultural Digital.",
  "start_url": "index.htm",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "description": "Prototipo 1 para el despliegue del Proyecto Cultural Digital.",
+ "name": "Panteón Nacional de los Heroes",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "sizes": "64x64"
   }
  ],
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
